@@ -3,7 +3,7 @@
 
 ## __dh__
 
-__Prints the total size, in human readable format, of all the files, including files in subdirectories__
+__Prints the total size, in human readable format, of all the files, including files in subdirectories__  
 `du -ch | grep total`
 
 Additional References:  
@@ -37,7 +37,7 @@ http://www.commandlinefu.com/commands/view/9380/to-print-a-specific-line-from-a-
 
 ## __ssh__
 
-__Verbose option to view authentication process for debugging__
+__Verbose option to view authentication process for debugging__  
 `ssh -v brandon@sshhost.net`
 
 Additional References:  
