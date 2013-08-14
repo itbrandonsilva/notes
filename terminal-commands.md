@@ -53,10 +53,10 @@ http://askubuntu.com/questions/100146/roots-bashrc-not-executing-on-sudo-i
 
 ## __uname__
 
-__Prints processor architecture__
+__Prints processor architecture__  
 `uname -m`
 
-__Prints linux kernel version__
+__Prints linux kernel version__  
 `uname -r`
 
 Additional References:  
