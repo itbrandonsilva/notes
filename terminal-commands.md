@@ -19,3 +19,6 @@ http://www.commandlinefu.com/commands/view/9380/to-print-a-specific-line-from-a-
 __Loads login specific files of the user specified before command execution, the user being root in this case__  
 `sudo -i command`
 
+Additional Reference:  
+http://askubuntu.com/questions/100146/roots-bashrc-not-executing-on-sudo-i
+
