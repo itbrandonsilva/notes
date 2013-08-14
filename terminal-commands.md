@@ -14,11 +14,10 @@ http://www.codecoffee.com/tipsforlinux/articles/22.html
 __Search all files in the current directory recursively, ignoring case, and print matching files names__  
 `grep -irl *`
 
-## __lsb&#95release__
+## __lsb_release__
 
-__Prints general distro information, including version__
+__Prints general distro information, including version__  
 `lsb_release -a`
-
 
 ## __scp__
 
