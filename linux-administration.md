@@ -13,6 +13,9 @@ How to identify what shell each user is using:
 http://www.unix.com/unix-dummies-questions-answers/1317-shell-am-i-using.html  
 `cat /etc/passwd` prints a list of users:  
 http://www.linuxquestions.org/questions/linux-newbie-8/what-is-the-command-to-list-users-367164/  
+
+## __System management__
+
 `gksudo gedit /etc/hostname` and `gksudo gedit /etc/hosts` to edit the system name:  
 http://askubuntu.com/questions/206698/changing-system-name  
 
