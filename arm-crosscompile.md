@@ -3,7 +3,7 @@
 
 ## __Example with Node.js__
 
-Grab the CodeBench Lite .tar [here](http://www.mentor.com/embedded-software/sourcery-tools/sourcery-codebench/editions/lite-edition/).  
+Grab CodeBench Lite (ARM Processors) as a .tar archive [here](http://www.mentor.com/embedded-software/sourcery-tools/sourcery-codebench/editions/lite-edition/).  
 The build tools are intuitively found in the bin directory.  
 <br />
 
