@@ -10,7 +10,7 @@ https://help.ubuntu.com/community/SSH?action=show&redirect=SSH%2FOpenSSH
 
 The `"Agent admitted failure to sign"` error is most likely solved by ensuring the ssh keys are loaded on both the server side and client side:  
 `ssh-add`  
-for ssh keys that don$_#39;t have the default filename:  
+for ssh keys that don't have the default filename:  
 `ssh-add ~/.ssh/my_other_key`  
 https://help.github.com/articles/error-agent-admitted-failure-to-sign
 
