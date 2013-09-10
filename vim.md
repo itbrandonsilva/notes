@@ -1,7 +1,7 @@
 # Linux Terminal Command Reference
 <br />
 
-## %v/error/d_
+## %v/error/d
 
 __Remove all lines that match the pattern 'error'__  
 
