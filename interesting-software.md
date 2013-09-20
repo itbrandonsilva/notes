@@ -10,7 +10,7 @@ __"The most advanced responsive front-end framework in the world."__
 http://foundation.zurb.com/
 
 ## __Sphinx__
-__"Open Source Search Engine"___
+__"Open Source Search Engine"__
 http://sphinxsearch.com/
 What I'm really interested in: http://sphinxsearch.com/docs/2.1.1/rt-indexes.html
 
