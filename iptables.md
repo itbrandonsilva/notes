@@ -1,7 +1,7 @@
 # Configuring iptables
 <br />
 
-### *** Redirect a request from the web to an internal ip address based on port (IE: openstack) ***
+### *** Redirect a request from the web to an internal ip address based on port - IE: openstack ***
 
 iptables -t nat -A PREROUTING -p tcp --dport SOURCE_PORT -j DNAT --to-destination DESTINATION_IP:DESTINATION_PORT
 iptables -t nat -A PREROUTING -p tcp --dport 3000 -j DNAT --to-destination 10.0.0.4:3000
