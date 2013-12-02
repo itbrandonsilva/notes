@@ -12,7 +12,11 @@ http://foundation.zurb.com/
 ## __Sphinx__
 __"Open Source Search Engine"__  
 http://sphinxsearch.com/  
-What I'm really interested in: http://sphinxsearch.com/docs/2.1.1/rt-indexes.html
+Really interested in: http://sphinxsearch.com/docs/2.1.1/rt-indexes.html
+
+## __Session Buddy__
+__"Manage Your Browser Sessions"__  
+https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=en
 
 ## __Varnish__
 __"Varnish is an HTTP accelerator designed for content-heavy dynamic web sites."__  
